@@ -1,0 +1,11 @@
+c:\users\jack\documents\visual studio 2013\Projects\LifeManager\LifeManager\bin\Debug\LifeManager.exe.config
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\bin\Debug\LifeManager.exe.config
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\bin\Debug\LifeManager.exe
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\bin\Debug\LifeManager.pdb
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.LifeManagerLogin.resources
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.Properties.Resources.resources
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.csproj.GenerateResource.Cache
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.exe
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.pdb
+C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.Pages.Manager.resources
