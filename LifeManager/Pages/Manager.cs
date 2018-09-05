@@ -16,5 +16,15 @@ namespace LifeManager.Pages
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            //进入密码管理界面
+            Manager new_form = new Manager();
+            new_form.Owner = this;
+            this.Hide();
+            new_form.ShowDialog();
+            Application.ExitThread();
+        }
     }
 }

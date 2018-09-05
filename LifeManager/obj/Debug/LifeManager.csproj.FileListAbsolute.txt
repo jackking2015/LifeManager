@@ -9,3 +9,14 @@ C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.csp
 C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.exe
 C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.pdb
 C:\Users\Jack\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.Pages.Manager.resources
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\bin\Debug\LifeManager.exe.config
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\bin\Debug\LifeManager.exe
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\bin\Debug\LifeManager.pdb
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.csprojAssemblyReference.cache
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.LifeManagerLogin.resources
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.Pages.Manager.resources
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.Properties.Resources.resources
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.csproj.GenerateResource.cache
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.csproj.CoreCompileInputs.cache
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.exe
+C:\Users\Bender\Documents\GitHub\LifeManager\LifeManager\obj\Debug\LifeManager.pdb

@@ -18,13 +18,13 @@ namespace LifeManager
             InitializeComponent();
         }
 
-        private void btLogin_Click(object sender, EventArgs e)
+        private void BtLogin_Click(object sender, EventArgs e)
         {
             if(tbUserName.Text != string.Empty && tbPassword.Text != string.Empty)
             {
                 Manager new_form = new Manager();
                 new_form.Owner = this;
-                //this.Hide();
+                this.Hide();
                 new_form.ShowDialog();
                 Application.ExitThread();
             }
